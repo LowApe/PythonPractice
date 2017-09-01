@@ -17,4 +17,3 @@
 
 ## 运行
 主程序 alien_invasion.py
-如果没安装Python的可以点击.exe查看
