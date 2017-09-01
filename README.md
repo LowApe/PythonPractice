@@ -2,7 +2,7 @@
 练习Python项目
 # 项目1 射击外星人
 
-![效果图](http://ww1.sinaimg.cn/thumbnail/006rAlqhly1fj43elzuyqg315p0pgkjn.gif)
+![效果图](http://ww1.sinaimg.cn/mw690/006rAlqhly1fj44dgc48yg315p0pgkjn.gif)
 
 ## 配置环境
 1. Python 3.5
