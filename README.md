@@ -1,9 +1,7 @@
 # Python
 练习Python项目
 # 项目1 射击外星人
-
-![](http://ww1.sinaimg.cn/mw690/006rAlqhly1fkq60ndykag315p0pfe85.gif)
-
+![](http://ww1.sinaimg.cn/mw690/006rAlqhly1g324ouwwm8g30x00jxkb5.gif)
 ## 配置环境
 1. Python 3.5
 2. Pygame
